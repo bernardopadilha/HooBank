@@ -1,3 +1,4 @@
+/* eslint-disable no-irregular-whitespace */
 import { logo } from '../assets'
 import { footerLinks, socialMedia } from '../constants'
 
