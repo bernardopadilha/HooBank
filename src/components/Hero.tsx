@@ -8,8 +8,7 @@ const Hero = () => {
         <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2 text-nowrap">
           <img src={discount} alt="discount" className="w-8 h-8" />
           <p className="paragraph ml-2">
-            <span className="text-white">20%</span> DE DESCONTO PARA SUA CONTA{' '}
-            <span className="text-white">POR 1 MÊS</span>
+            <span className="text-white">20%</span> DE DESCONTO PARA SUA CONTA
           </p>
         </div>
 
